@@ -1,6 +1,6 @@
 # Makefile
 
-CC = gcc
+CC = cc
 CFLAGS = -Wall -Wextra -O2
 
 all: criador_processos hello
